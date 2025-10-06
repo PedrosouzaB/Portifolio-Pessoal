@@ -212,7 +212,7 @@
       <span>
         <a href="https://github.com/PedrosouzaB/Repositorio_Base_Pedro/blob/main/Modulo%202/Manipula%C3%A7%C3%A3o%20de%20Arquivos%20e%20Automa%C3%A7%C3%A3o/criar(pasta%20e%20arquivo)remover(pasta%20e%20arquivo)lista" 
            target="_blank">
-          Criação de Aplicativos (GitHub)
+          Criação de Arquivos (GitHub)
         </a>
       </span>
     </section>
@@ -221,3 +221,4 @@
   </div>
 </body>
 </html>
+
